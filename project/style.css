@@ -24,6 +24,11 @@ body {
 }
 
 
+body {
+    background-image:url(img/%D1%84%D0%BE%D0%BD.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 a {
     color: darkorange;
@@ -126,4 +131,9 @@ placeholder {
     display: flex;
     justify-content: space-around;
     align-items: center;
+}
+
+
+.menu {
+    background-color: aqua;
 }
